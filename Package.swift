@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "KakaoSDKForSPM",
+    name: "KakaoSDK",
     platforms: [
         .iOS(.v11)
     ],
